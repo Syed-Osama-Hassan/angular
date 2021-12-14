@@ -1,0 +1,6 @@
+[
+    {"id":1, "name": "John Doe", "age": 22},
+    {"id":2, "name": "John Wick", "age": 28},
+    {"id":3, "name": "John Cena", "age": 32},
+    {"id":4, "name": "John Avacado", "age": 10}
+]
